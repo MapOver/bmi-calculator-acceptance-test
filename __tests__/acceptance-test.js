@@ -11,7 +11,7 @@ function delay(time) {
 }
 
 describe(
-  '/ (Home Page)',
+  'Acceptance test for V1 of BMI calculator',
   () => {
     let page
     beforeEach(async () => {
